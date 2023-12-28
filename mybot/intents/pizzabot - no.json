@@ -1,0 +1,39 @@
+{
+  "id": "c280fa0a-3992-496b-aa84-df0939ab2a2d",
+  "parentId": "89486ad6-ecd8-40a0-b1f9-cd3970103414",
+  "rootParentId": "89486ad6-ecd8-40a0-b1f9-cd3970103414",
+  "name": "pizzabot - no",
+  "auto": true,
+  "contexts": [
+    "pizzabot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzabot.pizzabot-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ok, thank you. pizza is booked or ordered for you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

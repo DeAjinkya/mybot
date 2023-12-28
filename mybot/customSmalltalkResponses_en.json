@@ -1,0 +1,255 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "i am my bot.",
+      "Am my bot, how can i help you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "machines don\u0027t have age",
+      "I am 1 year old."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Thank you, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "yeh of course.",
+      "yes for sure.",
+      "ok , please tell me your question."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "sorry, will have a better response.",
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "yes."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "thank you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I don\u0027t have a birth date."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "no, how can I help you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "yes.",
+      "sure."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "yes, i am a chatbot."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "thank you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "no, i am a machine."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "yes."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "sorry, will have better support next time."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "yes."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "no, iam not a real person"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "on the system."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "yes."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "yes i am sure."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "yes",
+      "hiii, how can i help you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "bye."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "good night."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "hello!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "fine, how are you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "nice to meet you to."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "nice to see you to."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "same here."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "fine, how are you."
+    ]
+  }
+]

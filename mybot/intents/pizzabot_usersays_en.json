@@ -1,0 +1,150 @@
+[
+  {
+    "id": "8b0dcb09-3849-40fb-94a1-7d91bbfb72e8",
+    "data": [
+      {
+        "text": "could you order pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1ec63b-288d-4aa5-a1fe-94a83fe353a1",
+    "data": [
+      {
+        "text": "could you order me pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf7f6a06-996d-4ded-8135-f78f4d2b4659",
+    "data": [
+      {
+        "text": "could you add ",
+        "userDefined": false
+      },
+      {
+        "text": "toppings",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " to the pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a35fdae1-aba3-4124-927a-9779e19c76be",
+    "data": [
+      {
+        "text": "could you order small \u003cspan class\u003d\"selection\" selection-value\u003d\"@sys.ignore\" selection-user-defined\u003d\"true\"\u003e",
+        "userDefined": false
+      },
+      {
+        "text": "size",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": "\u003c/span\u003e pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "114373a7-5388-41a9-a11a-b1432138986f",
+    "data": [
+      {
+        "text": "could you order me a pizza to the mailid ",
+        "userDefined": false
+      },
+      {
+        "text": "ajinkya@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62bfb0d-986a-4cf3-aa43-7ec8563cbb24",
+    "data": [
+      {
+        "text": "could you order me a pizza in the mobile number of ",
+        "userDefined": false
+      },
+      {
+        "text": "8967452563",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae37e7ae-370d-4c58-a675-a0378bd6d9b1",
+    "data": [
+      {
+        "text": "please order me a pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7e2690b-5719-4ef4-82aa-c46c51943420",
+    "data": [
+      {
+        "text": "order me pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
